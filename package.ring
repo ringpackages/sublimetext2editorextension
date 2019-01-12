@@ -25,11 +25,11 @@ aPackageInfo = [
 		"README.md"
 	],
 	:ringfolderfiles = 	[
-		"editor/sublime text 2/README.md",
-		"editor/sublime text 2/Ring_SublimeText2.jpg",
-		"editor/sublime text 2/Sublime_Text_2/ring.json-tmlanguage",
-		"editor/sublime text 2/Sublime_Text_2/ring.sublime-build",
-		"editor/sublime text 2/Sublime_Text_2/ring.tmlanguage"
+		"editor/sublimetext2/README.md",
+		"editor/sublimetext2/Ring_SublimeText2.jpg",
+		"editor/sublimetext2/Sublime_Text_2/ring.json-tmlanguage",
+		"editor/sublimetext2/Sublime_Text_2/ring.sublime-build",
+		"editor/sublimetext2/Sublime_Text_2/ring.tmlanguage"
 	],
 	:windowsfiles = 	[
 
